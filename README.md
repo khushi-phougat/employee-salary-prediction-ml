@@ -13,8 +13,10 @@ The dataset contains employee-related information such as:
 - Job Title  
 - Years of Experience  
 - Salary (target variable)
+  
+The dataset is provided as `archive.zip` in the root of the repository.  
+It contains `Salary Data.csv`, which is extracted in the notebook for preprocessing and model training.
 
-The data is extracted from a ZIP file and loaded into a pandas DataFrame. Missing values are handled before model training.
 
 ## Methodology
 
